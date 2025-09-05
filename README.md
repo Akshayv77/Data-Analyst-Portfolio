@@ -1,6 +1,6 @@
 This repository contains projects that showcase my skills as a Data Analyst, focusing on extracting insights from raw data, building dashboards, and communicating results effectively to stakeholders. Each project highlights a different area of data analytics, ranging from data cleaning and SQL queries to Python analysis and BI dashboards.
 
-1.Movie Data Analysis : 
+# Movie Data Analysis : 
 **Objective**
 The goal of this project is to analyze movie-related data (ratings, revenues, popularity, etc.) and extract meaningful insights. The analysis showcases how to:
 Handle messy real-world data.
