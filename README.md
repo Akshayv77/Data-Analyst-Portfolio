@@ -9,10 +9,10 @@ Visualize relationships between features.
 Derive business-like insights (e.g., factors influencing box office success).
 
 **Skills**
-Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
-Environment: Jupyter Notebook
-Other Tools: Git, VS Code / Jupyter Lab
-Data Source: https://www.kaggle.com/datasets/danielgrijalvas/movies
+-Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
+-Environment: Jupyter Notebook
+-Other Tools: Git, VS Code / Jupyter Lab
+-Data Source: https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 **Key Analysis Performed**
 Data Cleaning:
