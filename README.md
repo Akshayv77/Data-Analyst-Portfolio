@@ -1,0 +1,1 @@
+This repository contains projects that showcase my skills as a Data Analyst, focusing on extracting insights from raw data, building dashboards, and communicating results effectively to stakeholders. Each project highlights a different area of data analytics, ranging from data cleaning and SQL queries to Python analysis and BI dashboards.
