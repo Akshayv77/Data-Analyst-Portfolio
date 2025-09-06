@@ -24,16 +24,16 @@ The goal of this project is to analyze movie-related data (ratings, revenues, po
 ---
 
 ## Key Analysis
-# **Data Cleaning:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+# **Data Cleaning:** 
 - Filled missing values (e.g., revenue, budget).
--Standardized categorical values.
--Removed duplicates.
+- Standardized categorical values.
+- Removed duplicates.
 # **EDA:** 
--Distribution of ratings, revenues, budgets.
--Correlation analysis (budget vs. revenue, rating vs. popularity).
--Yearly trend analysis.
+- Distribution of ratings, revenues, budgets.
+- Correlation analysis (budget vs. revenue, rating vs. popularity).
+- Yearly trend analysis.
 # **Visualizations:** 
--Revenue by genre.
--Heatmaps of correlations.
--Top directors and actors analysis.
+- Revenue by genre.
+- Heatmaps of correlations.
+- Top directors and actors analysis.
 
