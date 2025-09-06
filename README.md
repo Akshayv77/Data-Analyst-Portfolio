@@ -23,17 +23,22 @@ The goal of this project is to analyze movie-related data (ratings, revenues, po
 
 ---
 
-# Key Analysis
-## **Data Cleaning:** 
+## Key Analysis
+### **Data Cleaning:** 
 - Filled missing values (e.g., revenue, budget).
 - Standardized categorical values.
 - Removed duplicates.
-## **EDA:** 
+### **EDA:** 
 - Distribution of ratings, revenues, budgets.
 - Correlation analysis (budget vs. revenue, rating vs. popularity).
 - Yearly trend analysis.
-## **Visualizations:** 
+### **Visualizations:** 
 - Revenue by genre.
 - Heatmaps of correlations.
 - Top directors and actors analysis.
+
+## Insights
+- Higher budgets generally correlate with higher revenues, but ROI differs by genre.
+- Genres like Animation and Adventure dominate box office success.
+- Audience ratings don’t always align with financial success.
 
