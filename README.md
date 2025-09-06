@@ -42,3 +42,7 @@ The goal of this project is to analyze movie-related data (ratings, revenues, po
 - Genres like Animation and Adventure dominate box office success.
 - Audience ratings don’t always align with financial success.
 
+## Next Steps
+- Build an interactive Power BI/Tableau dashboard.
+- Expand dataset to include modern streaming platforms.
+
